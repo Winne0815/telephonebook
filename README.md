@@ -1,5 +1,5 @@
 # Projektaufbau
-Wiee fängt man ein Python-Projekt an?
+Wie fängt man ein Python-Projekt an?
 
 ## Virtuelles Environment anlegen
 python -m venv env 
