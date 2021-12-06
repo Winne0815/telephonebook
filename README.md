@@ -11,7 +11,10 @@ env = Name des Verzeichnisses
 
 ## Git Repository erstellen
 git init
-
+git status
+git add .
+git commit -m "text"
+git push
 
 
 # Unittest
