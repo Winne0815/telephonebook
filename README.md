@@ -1,4 +1,4 @@
-# Projektaufnau
+# Projektaufbau
 Wiee fängt man ein Python-Projekt an?
 
 ## Virtuelles Environment anlegen
@@ -10,9 +10,10 @@ env = Name des Verzeichnisses
 .\env\Scripts\activate
 
 ## Git Repository erstellen
+git init
+
 
 
 # Unittest
-
 Verzeichnis: cd /projects/telephonebook
-hon -m unittest
+python -m unittest
