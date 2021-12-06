@@ -1,0 +1,6 @@
+{
+    "max_entries": 5,
+    "data": {
+        "path": "../data"
+    }
+}
